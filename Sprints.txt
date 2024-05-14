@@ -1,0 +1,12 @@
+Kotlin e Flutter - Aplicativo para Smartphone de oneboarding do FAQ. Permitira que funiconários se familiarizem com a plataforma e façam o oneboarding de maneira prática.
+
+Governança - Importante para garantir que os novos funcionários entendam os processos e políticas da empresa.
+Isso inclui aspectos como seguranca da informacao , conformidade regulatória , gerenciamento de projetos e boas práticas de desenvolvimento de software .
+Integrar esses conceitos na plataforma de onboarding pode ajudar a promover uma cultura organizacional de excelenciae conformidade.
+
+OPERATING SYSTEM TUNING AND COGNATION - Chatbot com computacao cognitiva contem uma progrmaacao diferenciada onde o robo é capaz de realizar uma cominicacao nao-linear. Interagir com o outro lado da tela
+
+PROGRAMMING AND DATABASE MANAGEMENT - Armazenar as informacoes é de extrema importancia , analisar os dados referentes aos ensinamentos de cada usuário e aprendizado sobre a empresa.
+
+MICROSERVICE AND WEB ENGINEERING - Permitir que o aplicativo seja separado em partes independentes menores, com cada parte tendo sua própria responsabilidade.
+Exeplo: login , biblioteca de cursos e conteudos
